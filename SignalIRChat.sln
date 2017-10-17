@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalIRChat", "SignalIRCha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveShapeDemo", "MoveShapeDemo\MoveShapeDemo.csproj", "{22DE149A-E00D-4852-B2B2-E3D8051E010B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignaRChatMVC", "SignaRChatMVC\SignaRChatMVC.csproj", "{ED0FA6AF-67C3-44D7-AC1D-D8B3A0E80DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRStockTicker", "SignalRStockTicker\SignalRStockTicker.csproj", "{83DEA478-0F1E-49FA-9349-19160C670578}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{22DE149A-E00D-4852-B2B2-E3D8051E010B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DE149A-E00D-4852-B2B2-E3D8051E010B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DE149A-E00D-4852-B2B2-E3D8051E010B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0FA6AF-67C3-44D7-AC1D-D8B3A0E80DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0FA6AF-67C3-44D7-AC1D-D8B3A0E80DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0FA6AF-67C3-44D7-AC1D-D8B3A0E80DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0FA6AF-67C3-44D7-AC1D-D8B3A0E80DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83DEA478-0F1E-49FA-9349-19160C670578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83DEA478-0F1E-49FA-9349-19160C670578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83DEA478-0F1E-49FA-9349-19160C670578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83DEA478-0F1E-49FA-9349-19160C670578}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
